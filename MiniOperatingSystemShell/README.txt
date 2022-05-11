@@ -1,5 +1,5 @@
 1)Mohammad Salman Mesam - 260860161
-2)Eloyann Roy-Javanbakht - 260847568
+
 
 Public Test case 3 result has been corrected based on the post made on ED :)
 
